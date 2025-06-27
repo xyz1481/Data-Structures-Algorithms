@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0135-candy) |
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0135-candy](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0135-candy) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
