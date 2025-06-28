@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 ## Union Find
 |  |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
