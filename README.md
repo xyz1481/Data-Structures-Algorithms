@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0078-subsets) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0078-subsets) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
