@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
