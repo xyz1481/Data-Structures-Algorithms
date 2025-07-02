@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0135-candy) |
 | [0213-house-robber-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0403-frog-jump) |
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
