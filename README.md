@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0403-frog-jump) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
