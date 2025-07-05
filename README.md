@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0135-candy) |
 | [0213-house-robber-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0403-frog-jump) |
+| [0494-target-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 ## Stack
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0403-frog-jump) |
+| [0494-target-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 ## Union Find
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0494-target-sum) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
