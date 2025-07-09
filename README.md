@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1250-longest-common-subsequence) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
+| [0516-longest-palindromic-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
