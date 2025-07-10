@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Union Find
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
 |  |
