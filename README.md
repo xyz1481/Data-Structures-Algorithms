@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0403-frog-jump) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
