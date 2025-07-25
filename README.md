@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0334-increasing-triplet-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0403-frog-jump](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0044-wildcard-matching](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Backtracking
 |  |
