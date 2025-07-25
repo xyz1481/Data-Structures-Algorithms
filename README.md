@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0403-frog-jump](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0494-target-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0403-frog-jump](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0494-target-sum) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0044-wildcard-matching) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
