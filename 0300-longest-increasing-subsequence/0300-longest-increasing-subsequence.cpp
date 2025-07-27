@@ -1,19 +1,44 @@
 class Solution {
-private:
-    int f(int index,int prev_index,int n,vector<int> &nums,vector<vector<int>> &dp){
-        if(index==n) return 0;
-        if(dp[index][prev_index+1]!=-1) return dp[index][prev_index+1];
-        //not pick
-         dp[index][prev_index+1] = 0 + f(index+1,prev_index,n,nums,dp);
-        //pick
-        if(prev_index==-1 || nums[index]>nums[prev_index]) 
-            dp[index][prev_index+1] = max(dp[index][prev_index+1],1 + f(index+1,index,n,nums,dp));
-        return dp[index][prev_index+1];
-    }
 public:
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
-        return f(0,-1,n,nums,dp);
+        vector<int> dp(n,1);
+        for(int index=1;index<n;index++){
+            for(int i=0;i<index;i++){
+               if(nums[i] < nums[index]) dp[index] = max(dp[index],1+dp[i]);
+            }
+        }
+        int ans =1;
+        for(auto it : dp) ans = max(ans,it);
+        return ans;
     }
 };
+
+
+// class Solution {
+// private:
+//     int f(int index,int prev_index,int n,vector<int> &nums,vector<vector<int>> &dp){
+//         if(index==n) return 0;
+//         if(dp[index][prev_index+1]!=-1) return dp[index][prev_index+1];
+//         //not pick
+//          dp[index][prev_index+1] = 0 + f(index+1,prev_index,n,nums,dp);
+//         //pick
+//         if(prev_index==-1 || nums[index]>nums[prev_index]) 
+//             dp[index][prev_index+1] = max(dp[index][prev_index+1],1 + f(index+1,index,n,nums,dp));
+//         return dp[index][prev_index+1];
+//     }
+// public:
+//     int lengthOfLIS(vector<int>& nums) {
+//         int n = nums.size();
+//         vector<int> dp(n+1,0),temp(n+1,0);
+//         for(int index=n-1;index>=0;index--){
+//             for(int prev_index=index-1;prev_index>=-1;prev_index--){
+//                 dp[prev_index+1] = 0 + temp[prev_index+1];
+//                 if(prev_index==-1 || nums[index]>nums[prev_index]) 
+//                     dp[prev_index+1] = max(dp[prev_index+1],1 + temp[index+1]);
+//             }
+//             temp = dp;
+//         }
+//         return dp[0];
+//     }
+// };
