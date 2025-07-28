@@ -2,17 +2,33 @@ class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n,1);
-        for(int index=1;index<n;index++){
-            for(int i=0;i<index;i++){
-               if(nums[i] < nums[index]) dp[index] = max(dp[index],1+dp[i]);
+        vector<int> ans;
+        ans.push_back(nums[0]);
+        for(int i=1;i<n;i++){
+            //lower bound find and replace it with that element
+            //if not found insert at last
+            if(nums[i] > ans.back()) ans.push_back(nums[i]);
+            else{
+                int index = lower_bound(ans.begin(),ans.end(),nums[i]) - ans.begin();
+                ans[index] = nums[i];
             }
         }
-        int ans =1;
-        for(auto it : dp) ans = max(ans,it);
-        return ans;
+        return ans.size();
     }
 };
+
+//  int lengthOfLIS(vector<int>& nums) {
+//         int n = nums.size();
+//         vector<int> dp(n,1);
+//         for(int index=1;index<n;index++){
+//             for(int i=0;i<index;i++){
+//                if(nums[i] < nums[index]) dp[index] = max(dp[index],1+dp[i]);
+//             }
+//         }
+//         int ans =1;
+//         for(auto it : dp) ans = max(ans,it);
+//         return ans;
+//     }
 
 
 // class Solution {
