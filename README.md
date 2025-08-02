@@ -149,4 +149,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0368-largest-divisible-subset) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
