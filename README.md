@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0079-word-search) |
 | [0210-course-schedule-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
+| [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
 ## Breadth-First Search
 |  |
@@ -177,14 +178,17 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0753-open-the-lock](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0753-open-the-lock) |
+| [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
