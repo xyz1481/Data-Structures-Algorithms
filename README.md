@@ -179,12 +179,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0753-open-the-lock](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Topological Sort
 |  |
 | ------- |
