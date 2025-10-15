@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0518-coin-change-ii) |
+| [0695-max-area-of-island](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0753-open-the-lock](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0753-open-the-lock) |
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0695-max-area-of-island) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0695-max-area-of-island) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0079-word-search) |
 | [0210-course-schedule-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
 ## Breadth-First Search
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0210-course-schedule-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1229-shortest-path-with-alternating-colors) |
