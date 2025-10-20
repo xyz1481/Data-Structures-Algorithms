@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0695-max-area-of-island) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Greedy
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0753-open-the-lock](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
