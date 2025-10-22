@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0355-design-twitter) |
+| [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0753-open-the-lock) |
+| [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Greedy
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -192,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0753-open-the-lock) |
+| [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1442-number-of-operations-to-make-network-connected) |
