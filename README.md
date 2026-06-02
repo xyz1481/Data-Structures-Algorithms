@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
 ## Sorting
