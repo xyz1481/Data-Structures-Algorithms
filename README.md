@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0971-shortest-bridge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0971-shortest-bridge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2227-sum-of-subarray-ranges](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
+| [3975-filter-occupied-intervals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3975-filter-occupied-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3975-filter-occupied-intervals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3975-filter-occupied-intervals) |
 ## Depth-First Search
 |  |
 | ------- |
