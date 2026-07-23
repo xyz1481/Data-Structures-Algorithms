@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0971-shortest-bridge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0971-shortest-bridge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2227-sum-of-subarray-ranges](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
+| [3933-largest-local-values-in-a-matrix-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3975-filter-occupied-intervals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3975-filter-occupied-intervals) |
 ## Stack
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0971-shortest-bridge) |
+| [3933-largest-local-values-in-a-matrix-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
+## Prefix Sum
+|  |
+| ------- |
+| [3933-largest-local-values-in-a-matrix-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 <!---LeetCode Topics End-->
