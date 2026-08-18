@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0971-shortest-bridge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0971-shortest-bridge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2227-sum-of-subarray-ranges](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3975-filter-occupied-intervals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3975-filter-occupied-intervals) |
 ## Stack
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3975-filter-occupied-intervals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3975-filter-occupied-intervals) |
 ## Depth-First Search
 |  |
