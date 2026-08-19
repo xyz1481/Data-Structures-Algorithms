@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0753-open-the-lock](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0753-open-the-lock) |
 | [1250-longest-common-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3396-valid-word](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
@@ -234,5 +235,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 <!---LeetCode Topics End-->
