@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2483-minimum-penalty-for-a-shop](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3396-valid-word](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+## Counting
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
