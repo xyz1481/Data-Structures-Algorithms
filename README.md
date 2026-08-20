@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2227-sum-of-subarray-ranges](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3975-filter-occupied-intervals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3975-filter-occupied-intervals) |
 ## Stack
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3975-filter-occupied-intervals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3975-filter-occupied-intervals) |
 ## Depth-First Search
 |  |
