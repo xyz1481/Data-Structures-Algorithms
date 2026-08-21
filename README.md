@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0355-design-twitter](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0355-design-twitter) |
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0753-open-the-lock) |
+| [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
 ## Linked List
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0971-shortest-bridge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0971-shortest-bridge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
 | [2227-sum-of-subarray-ranges](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
 ## Union Find
 |  |
 | ------- |
@@ -187,12 +190,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
+| [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
 ## Sorting
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3975-filter-occupied-intervals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3975-filter-occupied-intervals) |
