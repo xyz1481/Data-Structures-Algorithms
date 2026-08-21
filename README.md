@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0355-design-twitter](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0355-design-twitter) |
 | [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
+| [2054-two-best-non-overlapping-events](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2054-two-best-non-overlapping-events) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0971-shortest-bridge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0971-shortest-bridge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2227-sum-of-subarray-ranges](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2054-two-best-non-overlapping-events) |
 ## Union Find
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
 | [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2054-two-best-non-overlapping-events) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2054-two-best-non-overlapping-events) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3975-filter-occupied-intervals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3975-filter-occupied-intervals) |
