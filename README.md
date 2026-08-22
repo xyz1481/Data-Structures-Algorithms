@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0355-design-twitter](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0355-design-twitter) |
 | [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
+| [1383-maximum-performance-of-a-team](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1383-maximum-performance-of-a-team) |
 | [2054-two-best-non-overlapping-events](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2054-two-best-non-overlapping-events) |
 ## Array
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0971-shortest-bridge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0971-shortest-bridge) |
+| [1383-maximum-performance-of-a-team](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1383-maximum-performance-of-a-team) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2054-two-best-non-overlapping-events) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1383-maximum-performance-of-a-team](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1383-maximum-performance-of-a-team) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Backtracking
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
+| [1383-maximum-performance-of-a-team](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1383-maximum-performance-of-a-team) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2054-two-best-non-overlapping-events) |
