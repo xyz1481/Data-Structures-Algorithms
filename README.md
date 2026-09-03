@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0368-largest-divisible-subset) |
 ## Memoization
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
