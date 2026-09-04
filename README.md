@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0355-design-twitter](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0355-design-twitter) |
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0753-open-the-lock) |
+| [1048-longest-string-chain](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1048-longest-string-chain) |
 | [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
 ## Linked List
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-loud-and-rich](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0881-loud-and-rich) |
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0971-shortest-bridge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0971-shortest-bridge) |
+| [1048-longest-string-chain](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1048-longest-string-chain) |
 | [1383-maximum-performance-of-a-team](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1383-maximum-performance-of-a-team) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0879-profitable-schemes](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0879-profitable-schemes) |
 | [0943-sum-of-subarray-minimums](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1048-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0753-open-the-lock) |
+| [1048-longest-string-chain](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1048-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0721-accounts-merge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1048-longest-string-chain) |
 | [1383-maximum-performance-of-a-team](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1383-maximum-performance-of-a-team) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
@@ -265,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
