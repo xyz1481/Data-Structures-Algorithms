@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0971-shortest-bridge](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0971-shortest-bridge) |
 | [1048-longest-string-chain](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1048-longest-string-chain) |
 | [1383-maximum-performance-of-a-team](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1383-maximum-performance-of-a-team) |
+| [1539-kth-missing-positive-number](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1539-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2054-two-best-non-overlapping-events) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/0794-swim-in-rising-water) |
+| [1539-kth-missing-positive-number](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/1539-kth-missing-positive-number) |
 | [2008-maximum-earnings-from-taxi](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/xyz1481/Data-Structures-Algorithms/tree/master/2054-two-best-non-overlapping-events) |
 ## Sorting
